@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.sakib.codes/](https://www.sakib.codes/)
 
-- 💬 Ask me about **Next.Js, Three.js, Tailwind CSS, etc**
+- 💬 Ask me about **Next.Js, Three.js, Tailwind CSS, Node.js**
 
 - 📫 How to reach me **sk@sakib.codes**
 
