@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **AWS & AI prompt engineering.**
 
-- 👨‍💻 All of my projects are available at [https://www.sakib.codes/](https://www.sakib.codes/)
+- 👨‍💻 All of my projects are available at [https://www.sksakib.com/](https://www.sksakib.com/)
 
 - 💬 Ask me about **Next.Js, Three.js, Tailwind CSS, Node.js**
 
-- 📫 How to reach me **sk@sakib.codes**
+- 📫 How to reach me **contact@sksakib.com**
 
 - ⚡ Fun fact **I can binge watch a show in record time.**
 
